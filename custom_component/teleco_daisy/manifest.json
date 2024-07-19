@@ -3,7 +3,7 @@
   "name": "Teleco Daisy",
   "documentation": "https://github.com/andreasnuesslein/hass_teleco_daisy",
   "issue_tracker": "https://github.com/andreasnuesslein/hass_teleco_daisy/issues",
-  "codeowners": [@andreasnuesslein],
+  "codeowners": ["@andreasnuesslein"],
   "version": "0.1.0",
   "iot_class": "cloud_polling",
   "config_flow": true,
